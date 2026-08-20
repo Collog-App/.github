@@ -4,3 +4,6 @@
 <img width="5760" height="3240" alt="thumb" src="https://github.com/user-attachments/assets/0adbf701-3903-4b8a-9939-e91c1984c5e3" />
 
 <br />
+<sub>
+© 2026 Team Raichu of LIKELION SeoulTech. All rights reserved.
+</sub>
